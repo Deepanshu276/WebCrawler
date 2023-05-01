@@ -37,7 +37,7 @@ python3 crawler_client.py
 
 4. The client will send a POST request to the server with the start URL and maximum depth, and the server will recursively crawl the website and print out the internal links found on each page on the terminal.
 
-Crawled Link will be displayed as a sitemap in the terminal as follows
+Crawled Link will be displayed as a sitemap in same terminal where crawler_server.py was executed  in the terminal as follows
 
 ![Screenshot from 2023-05-01 21-18-25](https://user-images.githubusercontent.com/56041032/235481617-b889c4de-218c-4b91-a9b4-91f3878ef130.png)
 
